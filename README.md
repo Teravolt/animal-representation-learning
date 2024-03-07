@@ -4,6 +4,8 @@ This repo contains code for a project of mine that trains animal classification 
 These models are currently trained on the [cats vs. dogs](https://huggingface.co/datasets/cats_vs_dogs) dataset from HuggingFace.
 I did this to learn more about computer vision, representation learning, and training models from scratch.
 
+A blog post about the project can be found on my [blog website](https://www.pavankantharaju.com/blog/matryoshka-representation-learning/computer-vision/2024/03/02/matryoshka.html).
+
 ## Installation
 
 The Animal Classifier has been tested using Python `3.9`.
